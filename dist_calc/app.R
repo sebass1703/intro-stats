@@ -272,7 +272,7 @@ server <- function(input, output) {
         "Mean",
         value = 0,
         min = -50,
-        max = 50
+        max = 200
       )
     }
   })
